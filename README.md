@@ -6,8 +6,9 @@ which means that you may reproduce and print them as you see fit.
 
 ## JavaScript Pride
 
-<a href="javascript-pride.png"><img src="javascript-pride.png" width="440" height="240"></a>
-[[download]](javascript-pride.png)
+<a href="https://github.com/donavon/pride-stickers/raw/master/javascript-pride.png"><img src="javascript-pride.png" width="440" height="240"></a>
+<br>
+[[download]](https://github.com/donavon/pride-stickers/raw/master/javascript-pride.png)
 
 The JavaScript Pride sticker (JS Pride) uses the RGB values from the
 pride flag with the exception of the yellow, which is the standard
